@@ -1,5 +1,6 @@
 package tibi.interviewtraining;
 
+import lombok.AllArgsConstructor;
 import lombok.Data;
 
 /**
